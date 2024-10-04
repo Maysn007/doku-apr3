@@ -20,4 +20,4 @@ author:
 | Datum        | Stunden | Inhalt                   |
 |--------------|---------|--------------------------|
 | 20. Sep. 2024| 2       | Notenschema, Organisatorisches, Projekt Begriffe            |
-| 04. Pkt. 2024| 2       |
+| 04. Pkt. 2024| 2       | Projekte einteilen, Mindmap                                 |
